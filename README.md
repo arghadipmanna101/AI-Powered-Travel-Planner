@@ -1,6 +1,6 @@
 <!-- Project Header -->
 <p align="center">
-  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/344/external-Travel-Vacation-flat-icons-inmotus-design.png" width="120px" />
+  <img src="Project_Preview/pic4.png"alt="Demo of AI Travel Planner" width="1000px" />
 </p>
 <h1 align="center">✈️ AI-Powered Travel Planner</h1>
 <p align="center">
@@ -19,9 +19,9 @@
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="Project_Preview/pic1.png" alt="Demo of AI Travel Planner" width="50%" />
-  <img src="Project_Preview/pic2.png" alt="Demo of AI Travel Planner" width="50%" />
-  <img src="Project_Preview/pic3.png" alt="Demo of AI Travel Planner" width="50%" />
+  <img src="Project_Preview/pic1.png" alt="Demo Preview1" width="50%" />
+  <img src="Project_Preview/pic2.png" alt="Demo Preview2" width="50%" />
+  <img src="Project_Preview/pic3.png" alt="Demo Preview3" width="50%" />
 </p>
 
 ---
@@ -111,3 +111,8 @@ If you find any bugs or have suggestions, open an issue.
 
 This project is licensed under the MIT License – feel free to use and modify it.
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxxNDg1a3pzazlvbGQyOHVnMHg5MGJ0ZGx6OHd3cXlvbjVlYjNlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhlboG0kGaiCx1D9cd/giphy.gif" 
+       alt="Demo of AI Travel Planner" 
+       width="500px" />
+</p>
